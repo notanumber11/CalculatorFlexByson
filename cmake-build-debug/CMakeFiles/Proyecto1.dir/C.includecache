@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/byson.h
+
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/byson.tab.c
+math.h
+-
+hashTable.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/hashTable.h
+byson.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/byson.h
+stddef.h
+-
+libintl.h
+-
+alloca.h
+-
+malloc.h
+-
+stdlib.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/definitions.h
+
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/hashTable.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+hashTable.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/hashTable.h
+
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/hashTable.h
+
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/lex.yy.c
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+hashTable.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/hashTable.h
+byson.tab.c
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/byson.tab.c
+definitions.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/definitions.h
+string.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/string.h
+unistd.h
+-
+
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/main.c
+stdio.h
+-
+stdlib.h
+-
+byson.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/byson.h
+definitions.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/definitions.h
+string.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/string.h
+hashTable.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/hashTable.h
+math.h
+/home/notanumber/Compiladores e Interpretes/subirGit/CalculatorFlexByson/math.h
+

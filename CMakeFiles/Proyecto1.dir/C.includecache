@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/denis/Escritorio/workspaces/Proyecto1/byson.tab.h
+
+/home/denis/Escritorio/workspaces/Proyecto1/hashTable.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+hashTable.h
+/home/denis/Escritorio/workspaces/Proyecto1/hashTable.h
+
+/home/denis/Escritorio/workspaces/Proyecto1/hashTable.h
+
+/home/denis/Escritorio/workspaces/Proyecto1/lex.yy.c
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+byson.tab.h
+/home/denis/Escritorio/workspaces/Proyecto1/byson.tab.h
+hashTable.h
+/home/denis/Escritorio/workspaces/Proyecto1/hashTable.h
+unistd.h
+-
+
+/home/denis/Escritorio/workspaces/Proyecto1/main.c
+stdio.h
+-
+

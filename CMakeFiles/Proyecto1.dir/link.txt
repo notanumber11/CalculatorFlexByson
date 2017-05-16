@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Proyecto1.dir/main.c.o CMakeFiles/Proyecto1.dir/hashTable.c.o CMakeFiles/Proyecto1.dir/lex.yy.c.o  -o Proyecto1 

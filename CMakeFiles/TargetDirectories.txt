@@ -1,0 +1,3 @@
+/home/denis/Escritorio/workspaces/Proyecto1/CMakeFiles/edit_cache.dir
+/home/denis/Escritorio/workspaces/Proyecto1/CMakeFiles/rebuild_cache.dir
+/home/denis/Escritorio/workspaces/Proyecto1/CMakeFiles/Proyecto1.dir
